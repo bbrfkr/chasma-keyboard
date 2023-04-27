@@ -4,4 +4,5 @@
   (lib (name "TS-1187A-B-A-B")(type "KiCad")(uri "${KIPRJMOD}/lib/TS-1187A-B-A-B")(options "")(descr ""))
   (lib (name "Type-C")(type "KiCad")(uri "${KIPRJMOD}/lib/Type-C.pretty")(options "")(descr ""))
   (lib (name "WS2812B")(type "KiCad")(uri "${KIPRJMOD}/lib/WS2812B.pretty")(options "")(descr ""))
+  (lib (name "SK6812MINI-E")(type "KiCad")(uri "${KIPRJMOD}/lib/SK6812MINI-E")(options "")(descr ""))
 )
